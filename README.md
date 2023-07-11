@@ -2,12 +2,11 @@
 
 ![image](https://github.com/JustAsteri/justastesri/assets/83469583/3204b852-e154-4208-8162-2c61ac19e7c1)
 
-# JustAsteri says こんにちは！ 👋
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![image](https://github.com/JustAsteri/justastesri/assets/83469583/ae489dd0-5786-4700-a6e6-8b2ff27b4714)
 
 # About Me 💬
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&lines=JustAsteri+says+こんにちは！👋)](https://git.io/typing-svg)
 - I am a software engineer passionate about Artificial Intelligence 🤖.
 - My interest lies in applying AI to space 🚀 and language domains 💬.
 - My dream job is to work on groundbreaking AI projects in those areas, leveraging my skills and knowledge to drive innovation.
