@@ -21,16 +21,13 @@
 
 # Technical Information 🦾
 
+# Github Stats
+
+[![Justasteri's GitHub stats](https://github-readme-stats.vercel.app/api?username=justasteri&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tech Skills 🧑‍💻
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=justasteri"
 />
 
 ![image](https://github.com/JustAsteri/justastesri/assets/83469583/f40ea13c-0335-4f14-8a3e-6bcc968d4cb9)
-
-## Extra
-
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
