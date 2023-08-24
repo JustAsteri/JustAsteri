@@ -12,9 +12,9 @@
 - My dream job is to work on groundbreaking AI projects in those areas, leveraging my skills and knowledge to drive innovation.
 
 ## Hobbies 🧩🎮🎬
-- Gaming solo
-- Enjoyer of Anime & Manga
-- Enthusiastic of Philosophy
+- Solo Gaming
+- Anime & Manga Enjoyer
+- Philosophy's enthusiastic
 - Avid Reader
 
 ![image](https://github.com/JustAsteri/justastesri/assets/83469583/8df9be6d-b739-4177-8dcb-351a6438008b)
