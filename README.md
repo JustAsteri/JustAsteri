@@ -7,9 +7,9 @@
 
 # About Me 💬
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&lines=JustAsteri+says+こんにちは！👋)](https://git.io/typing-svg)
-- I am a software engineer passionate about Artificial Intelligence 🤖.
-- My interest lies in applying AI to space 🚀 and language domains 💬.
-- My dream job is to work on groundbreaking AI projects in those areas, leveraging my skills and knowledge to drive innovation.
+- I am a software engineer passionate about whatever wakes up my curiosity.
+- My interest lies in applying my skills into space 🚀 and language domains 💬.
+- My dream job is to work on groundbreaking projects in those areas, leveraging my skills and knowledge to drive innovation.
 
 ## Hobbies 🧩🎮🎬
 - Solo Gaming
